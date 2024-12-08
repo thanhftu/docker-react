@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My app
+          Change some text to checkout git workflow
         </a>
       </header>
     </div>
